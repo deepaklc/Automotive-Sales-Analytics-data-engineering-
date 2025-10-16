@@ -9,13 +9,19 @@ The project focuses on data ingestion, transformation, modeling, and visualizati
 This project simulates a real-world enterprise data flow, integrating cloud-based ETL orchestration, big data transformation, and interactive analytics dashboards.
 
 <img width="907" height="556" alt="Medellian Architecture" src="https://github.com/user-attachments/assets/20858b13-2b8b-45f3-a366-015a7ac3d540" />
-
+                                                            Medallion Architecture
+                                                            
 <img width="1365" height="593" alt="Screenshot 2025-04-28 181727" src="https://github.com/user-attachments/assets/526cdb7a-0594-4d1e-a481-f6b4f3b8218e" />
-
+                                                            Azure Data Factory
+                                                            
 <img width="1365" height="688" alt="Screenshot 2025-07-16 230359" src="https://github.com/user-attachments/assets/986451c9-8e6c-4aa9-bcfc-acf668db5eb6" />
-
+                                                            notebooks inside databricks
+                                                            
 <img width="1156" height="673" alt="Screenshot 2025-04-28 143926" src="https://github.com/user-attachments/assets/7bad2ac9-9c82-4af3-b825-783a6c91b78c" />
+                                                            workflows inside databricks
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cbe4d256-d99a-44c9-a639-41963cf14670" />
+                                                            PowerBI Dashboard
 
 
 🧩 Project Objectives
